@@ -5,7 +5,7 @@
 ## need compute the inverse again we can read from the cache
 
 ## Write a short comment describing this function
-## This function is to make the cache of the inverse of the matrix
+## This function is to make the cache of the inverse of the matrix.
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
         set <- function(y) {
