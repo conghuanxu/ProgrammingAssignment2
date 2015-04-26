@@ -4,7 +4,7 @@
 ## the other goal is if we have computed the inverse once, and if we 
 ## need compute the inverse again we can read from the cache
 
-## Write a short comment describing this function
+## Write a short comment describing this function    
 ## This function is to make the cache of the inverse of the matrix.
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
